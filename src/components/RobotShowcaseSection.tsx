@@ -43,7 +43,7 @@ const RobotShowcaseSection = () => {
               Precision Engineering Meets <span className="text-[#FC4D0A]">Adaptive AI</span>
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Our humanoid robot represents the perfect fusion of cutting-edge mechanical engineering and 
+              Our Humanoid robot represents the perfect fusion of cutting-edge mechanical engineering and 
               state-of-the-art artificial intelligence, designed to seamlessly integrate into human environments.
             </p>
           </div>
@@ -51,7 +51,7 @@ const RobotShowcaseSection = () => {
           <div className="relative w-full max-w-4xl overflow-hidden rounded-3xl shadow-2xl">
             <img 
               src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e" 
-              alt="Advanced humanoid robot with white exterior" 
+              alt="Advanced Humanoid robot with white exterior" 
               className="w-full object-cover"
             />
             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-8">
