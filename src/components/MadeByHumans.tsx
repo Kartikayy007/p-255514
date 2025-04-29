@@ -14,7 +14,7 @@ const MadeByHumans = () => {
             </span>
             </div>
             
-            {/* <div style={{
+            <div style={{
             overflow: "hidden",
             maxHeight: "80px",
             marginTop: "40px"
@@ -23,9 +23,9 @@ const MadeByHumans = () => {
               marginBottom: "-30px",
               padding: "0px 0px 100px"
             }} className="sm:text-5xl font-playfair text-white italic mt-0 mx-0 font-thin text-6xl md:text-7xl py-0 px-0 text-center lg:text-7xl">
-                Made By Nusture AI
+                Here is the future of job searching.
               </h2>
-            </div> */}
+            </div>
             
             {/* White box at the bottom with overflow */}
             <div className="w-[120%] bg-white h-10 rounded-t-lg absolute left-[-10%] bottom-0"></div>

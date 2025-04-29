@@ -5,7 +5,9 @@ const Footer = () => {
       <div className="section-container">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <img src="/logo.svg" alt="Skill Orbit Logo" className="h-8 mb-4" />
+            <p className="text-6xl font-semibold">
+              Skill Orbit
+            </p>
             <p className="text-gray-600 text-sm">
               Find your perfect job match with AI-powered recommendations.
             </p>
