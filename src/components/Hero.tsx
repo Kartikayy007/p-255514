@@ -128,7 +128,7 @@ const Hero = () => {
           style={{ animationDelay: "0.7s" }}
         >
           <a
-            href="#get-access"
+            href="https://calendar.google.com"
             className="flex items-center justify-center group w-full sm:w-auto text-center"
             style={{
           backgroundColor: '#000000',
@@ -142,7 +142,7 @@ const Hero = () => {
           border: '1px solid white',
             }}
           >
-            Get Started
+            Try Demo
             <ArrowRight className="ml-2 w-4 h-4 transition-transform group-hover:translate-x-1" />
           </a>
           <a

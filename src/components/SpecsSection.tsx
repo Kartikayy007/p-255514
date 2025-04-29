@@ -19,7 +19,7 @@ const SpecsSection = () => {
         {/* Main content with text mask image - responsive text sizing */}
         <div className="max-w-5xl pl-4 sm:pl-8">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-display leading-tight mb-8 sm:mb-12">
-            <span className="block bg-clip-text text-transparent bg-[url('/text-mask-image.webp')] bg-cover bg-center">
+            <span className="block bg-clip-text text-black bg-cover bg-center">
               Skill Orbit works with your career goals, not against them. By filtering through thousands of job listings, identifying the best matches, and learning from your preferences, Skill Orbit helps you focus on what matters most: applying to positions where you'll truly thrive.
             </span>
           </h2>

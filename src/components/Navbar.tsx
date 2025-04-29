@@ -54,11 +54,9 @@ const Navbar = () => {
           }}
           aria-label="Pulse Robot"
         >
-          <img 
-            src="/logo.svg" 
-            alt="Pulse Robot Logo" 
-            className="h-7 sm:h-8" 
-          />
+          <h1>
+            <span className="text-2xl sm:text-3xl md:text-4xl font-bold">Skill Orbit</span>
+          </h1>
         </a>
 
         {/* Desktop Navigation */}
